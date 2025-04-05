@@ -80,6 +80,7 @@ Project Manager - assembles and lead the software development team.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg NetBeans and Android Studio
 importance:
 Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
@@ -123,6 +124,7 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 
 
 #Part 2: Introduction to AI and Prompt Engineering
+
 
 Define prompt engineering and discuss its importance in interacting with AI models.
  prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
